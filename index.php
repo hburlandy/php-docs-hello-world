@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello World!";
+echo "Hello Azure W4Clouds WebAPP!";
